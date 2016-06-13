@@ -1,0 +1,19 @@
+{
+  "name": "cssdiffy",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Dennis Morhardt <info@dennismorhardt.de>",
+  "license": "MIT",
+  "bin": {
+    "cssdiffy": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "commander": "^2.9.0",
+    "css": "^2.2.1",
+    "csscomb": "^3.1.8",
+    "same-values-as": "0.0.4",
+    "stylefmt": "gglnx/stylefmt#master"
+  }
+}
